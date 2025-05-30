@@ -1,0 +1,54 @@
+{
+  "pedidos": [
+    {
+      "numeroPedido": "P001",
+      "produtos": [
+        {
+          "nome": "Smartphone",
+          "dimensoes": {
+            "altura": 15,
+            "largura": 8,
+            "comprimento": 2
+          }
+        },
+        {
+          "nome": "Notebook",
+          "dimensoes": {
+            "altura": 25,
+            "largura": 35,
+            "comprimento": 3
+          }
+        },
+        {
+          "nome": "Mouse",
+          "dimensoes": {
+            "altura": 10,
+            "largura": 6,
+            "comprimento": 3
+          }
+        }
+      ]
+    },
+    {
+      "numeroPedido": "P002",
+      "produtos": [
+        {
+          "nome": "Monitor",
+          "dimensoes": {
+            "altura": 45,
+            "largura": 60,
+            "comprimento": 10
+          }
+        },
+        {
+          "nome": "Teclado",
+          "dimensoes": {
+            "altura": 5,
+            "largura": 35,
+            "comprimento": 15
+          }
+        }
+      ]
+    }
+  ]
+}

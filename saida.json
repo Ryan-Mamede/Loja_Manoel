@@ -1,0 +1,74 @@
+{
+  "pedidos": [
+    {
+      "numeroPedido": "P001",
+      "caixas": [
+        {
+          "nome": "Caixa 1",
+          "dimensoes": {
+            "altura": 30,
+            "largura": 40,
+            "comprimento": 80
+          },
+          "produtos": [
+            {
+              "nome": "Notebook",
+              "dimensoes": {
+                "altura": 25,
+                "largura": 35,
+                "comprimento": 3
+              }
+            },
+            {
+              "nome": "Smartphone",
+              "dimensoes": {
+                "altura": 15,
+                "largura": 8,
+                "comprimento": 2
+              }
+            },
+            {
+              "nome": "Mouse",
+              "dimensoes": {
+                "altura": 10,
+                "largura": 6,
+                "comprimento": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numeroPedido": "P002",
+      "caixas": [
+        {
+          "nome": "Caixa 2",
+          "dimensoes": {
+            "altura": 80,
+            "largura": 50,
+            "comprimento": 40
+          },
+          "produtos": [
+            {
+              "nome": "Monitor",
+              "dimensoes": {
+                "altura": 45,
+                "largura": 60,
+                "comprimento": 10
+              }
+            },
+            {
+              "nome": "Teclado",
+              "dimensoes": {
+                "altura": 5,
+                "largura": 35,
+                "comprimento": 15
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

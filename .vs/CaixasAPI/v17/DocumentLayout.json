@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TesteL2\\CaixasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88C3632-6CBA-4204-AC1C-B64A06C747FD}|CaixasAPI.API\\CaixasAPI.API.csproj|d:\\testel2\\caixasapi\\caixasapi.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88C3632-6CBA-4204-AC1C-B64A06C747FD}|CaixasAPI.API\\CaixasAPI.API.csproj|solutionrelative:caixasapi.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "D:\\TesteL2\\CaixasAPI\\CaixasAPI.API\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "CaixasAPI.API\\Controllers\\PedidosController.cs",
+              "ToolTip": "D:\\TesteL2\\CaixasAPI\\CaixasAPI.API\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "CaixasAPI.API\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:36:15.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

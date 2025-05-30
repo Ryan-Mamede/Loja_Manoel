@@ -1,0 +1,44 @@
+# .NET Core
+*.swp
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.tmp
+*.userprefs
+*.pidb
+*.ide
+.vs/
+.idea/
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Tests
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.TestResults.xml
+
+# Docker & Git
+.dockerignore
+.git
+.gitignore
+.github
+.gitattributes
+
+# Others
+**/node_modules/
+**/.DS_Store
