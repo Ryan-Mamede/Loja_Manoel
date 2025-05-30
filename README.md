@@ -136,6 +136,7 @@ Este projeto atualmente não utiliza autenticação. Futuramente poderá ser int
 ---
 
 ⚙️ Configuração do AutoMapper
+
 O projeto utiliza AutoMapper para mapear automaticamente entre DTOs e entidades de domínio.
 
 ---
